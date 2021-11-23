@@ -29,8 +29,8 @@ Output file size (uncompressed data): 15678 bytes, compressed data (excluding en
 
 Makefile:
 
- * `./make` builds executable hw_02 to obj/ directory (created on build in doesn't exist)
+ * `make` builds executable hw_02 to obj/ directory (created on build in doesn't exist)
 
- * `./make test` builds executable hw_02_test to obj/ directory
+ * `make test` builds executable hw_02_test to obj/ directory
 
- * `./make clean` cleans the obj/ directory
+ * `make clean` cleans the obj/ directory
